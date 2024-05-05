@@ -37,3 +37,5 @@ Overall Interpretation:
 Both models show promise in predicting work-from-home behavior based on cognitive characteristics and habits, with the Decision Tree Classifier outperforming the Random Forest Classifier marginally.
 However, there's room for improvement, particularly in addressing class imbalance and optimizing model parameters.
 Further analysis and experimentation, including feature engineering, hyperparameter tuning, and potentially exploring more advanced algorithms, could lead to enhanced predictive performance and a more robust model for predicting work-from-home behavior during COVID-19.
+
+#Machine Learning #decision trees #python #random forest
